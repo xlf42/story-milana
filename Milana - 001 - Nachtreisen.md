@@ -10,7 +10,7 @@ Es hatte fast ein Jahr gedauert, ihre und damit auch Saschas Deutsche Staatsange
 
 Milana hätte sich keine großen Sorgen machen müssen, sie war als Software-Entwicklerin eine begehrte Arbeitskraft in Kyjiw, keine Kompanie der ukrainischen Streitkräfte würde sie ernsthaft auch nur in die Nähe der Front bringen, außer, sie würde sich freiwillig melden. Dem Staat war es wichtiger, von der durch sie gezahlten Einkommensteuer, den Umsatz, den ihr Arbeitgeber mit Europäischen Kunden machte und nicht zuletzt durch ihre ehrenamtliche Hilfe an militärischer Software-Entwicklung zu profitieren. Es war für sie und die Kollegen, aber auch so ziemlich jedem Software-Entwickler in ihrem vom Krieg geschundenen Land Ehrensache, nach Feierabend oder am Wochenende in einem der vielen Militärischen Software-Projekte mitzuarbeiten, Bugfixes zu machen, Testroutinen zu schreiben oder sich sonst entsprechend seines Wissens und seiner Erfahrung nützlich zu machen.
 
-Milana hatte in den letzten Monaten ungezählte Stunden vor dem Firmware-Code von Kampfdrohnen verbracht, die Fehler-Reports aus den Trainings-Centern oder auch von der Front gelesen, daraus Tests geschrieben und Fehler behoben. Sie kannte inzwischen die Drohnen-Software und ihre Avionik, wie man die Flugsteuerung der Geräte nannte in- und auswendig. Zweimal wurde sie mit ein paar Mitstreitern in ein ein Trainingscamp eingeladen, wo sie zum Spaß auch ein paar Stunden fliegen durften und natürlich im Anschluß sanft „ermutigt“ wurden, sich doch zum Drohnenpiloten der Armee ausbilden zu lassen. Ungefähr die Hälfte der Teilnehmenden hatten zugesagt, sie war bei der anderen Hälfte dabei.
+Milana hatte in den letzten Monaten ungezählte Stunden vor dem Firmware-Code von Kampfdrohnen verbracht, die Fehler-Reports aus den Trainings-Centern oder auch von der Front gelesen, daraus Tests geschrieben und Fehler behoben. Sie kannte inzwischen die Drohnen-Software und ihre Avionik, wie man die Flugsteuerung der Geräte nannte, in- und auswendig. Zweimal wurde sie mit ein paar Mitstreitern in ein Trainingscamp eingeladen, wo sie zum Spaß auch ein paar Stunden fliegen durften und natürlich im Anschluss sanft „ermutigt“ wurden, sich doch zum Drohnenpiloten der Armee ausbilden zu lassen. Ungefähr die Hälfte der Teilnehmenden hatten zugesagt, sie war bei der anderen Hälfte dabei.
 
 Sie hasste den Krieg.  
 Sie hasste die Zerstörung.  
@@ -27,9 +27,9 @@ Sie hatten jedoch schnell den Entschluß gefasst, dass ihre Zukunft in einem fri
 Milana sprach nicht nur Ukrainisch und Russisch als Muttersprache, sie hatte zu Friedenszeiten jeweils ein Semester in Berlin und Liverpool studiert und konnte sich problemlos auf Deutsch und Englisch unterhalten. Sascha würde sich mit seinem sehr guten Englisch und seinem auf der Abendschule gelernten Deutsch durchschlagen, wenn sie es denn in ein EU-Land geschafft hätten.
 Der Zug hielt in Przemyśl, wo sie in einen Eurocity nach Berlin umsteigen würden.
 
-Trotz der nächtlichen Stunde war der Bahnsteig voller Menschen, die auf Verwandte oder andere Reisenden warteten, es gab inzwischen nur noch weniger Helfer, die Flüchtlinge in Empfang nahmen und mit dem notwendigsten versorgten. Die meisten, die jetzt kamen waren keine Hals über Kopf geflohenen, sondern waren entweder nur auf einer Reise oder hatten ihre Flucht von langer Hand geplant.
+Trotz der nächtlichen Stunde war der Bahnsteig voller Menschen, die auf Verwandte oder andere Reisenden warteten, es gab inzwischen nur noch weniger Helfer, die Flüchtlinge in Empfang nahmen und mit dem Notwendigsten versorgten. Die meisten, die jetzt kamen, waren keine halsüberkopf Geflohenen, sondern waren entweder nur auf einer Reise oder hatten ihre Flucht von langer Hand geplant.
 
-Sascha war bereits auf den Bahnsteig gesprungen und Milana reichte ihm ihre großen Rucksäcke, die ihre einziges Gepäck neben den Laptop-taschen waren.
+Sascha war bereits auf den Bahnsteig gesprungen und Milana reichte ihm ihre großen Rucksäcke, die neben den Laptoptaschen ihr einziges Gepäck waren.
 „Da ist Oleg! Und Svetlana!“, Milana hatte ihren Kontakt bereits gesehen und er sie.
 
 Sie stieg die Stufen hinunter auf den Bahnsteig und Oleg hatte sich samt seiner Frau durch die Menschen zu ihnen durchgearbeitet.
@@ -37,7 +37,7 @@ Sie stieg die Stufen hinunter auf den Bahnsteig und Oleg hatte sich samt seiner 
 Sie umarmten sich und freuten sich, sich nach so langer Zeit wieder zu treffen.
 „Schön, dass Ihr es geschafft habt, der Hölle zu entkommen!“, Oleg sah Sascha an, „Besonders Du, dein Talent ist an einer Uni viel besser aufgehoben, als im Fleischwolf im Osten“
 
-Sascha nickte, er schluckte den Klos im Hals hinunter, als er kurz daran dachte, was wohl mit seinen Mitabiturienten passieren würde, die vermutlich jetzt sehr schnell in eine Uniform und Grundkurs gesteckt wurden, um dann in ein paar Monaten im Schützengraben irgendwo an der Front zu landen.
+Sascha nickte, er schluckte den Kloß im Hals hinunter, als er kurz daran dachte, was wohl mit seinen Mitabiturienten passieren würde, die vermutlich jetzt sehr schnell in eine Uniform und Grundkurs gesteckt wurden, um dann in ein paar Monaten im Schützengraben irgendwo an der Front zu landen.
 
 Auch er hatte sich einen Namen in der IT-Community seines Heimatlandes gemacht und hatte seine Kontakte ausgenutzt, diskret in die Aufnahmeprüfungen einiger Universitäten in Deutschland zu kommen, die er bestanden hatte und sich jetzt eine Uni aussuchen musste.
 
@@ -46,7 +46,7 @@ Auch er hatte sich einen Namen in der IT-Community seines Heimatlandes gemacht u
 „Die SIM-Karten sind bereits aktiviert“, Oleg sah sie an, „Ihr müsst Euch nur noch den Apple-Account konfigurieren, dann könnt ihre die Telefone benutzen“.  
 „Ihr habt ja jetzt ein paar Stunden Zeit“, Svetlana sah auf ihre Uhr, „der Zug nach Berlin geht um fünf“. 
 „Habt ihr die Tickets ausgedruckt?“, Milana sah Oleg und seine Frau an.  
-„Klar!“, Svetlana förderte eine Klarsichthülle zutage, „Hier das Ticket für den Zug, und die Bestätigung für das AirBNB in Berlin“. 
+„Klar!“, Svetlana förderte eine Klarsichthülle zutage, „Hier das Ticket für den Zug, und die Bestätigung für das Airbnb in Berlin". 
 Milana hatte das alles bereits gebucht und bezahlt, aber sie wollte nicht mit einem Ausdruck in der Tasche über die Grenze fahren, der beweisen würde, dass sie weiter als über die ukrainische Grenze reisen wollte.  
 „Wo können wir Euros eintauschen?“  
 „Nicht nötig“, Oleg zog einen Briefumschlag aus seiner Jackentasche, „damit kommst Du erst einmal durch die Woche“, er beugte sich zu Milanas Gesicht, „nicht hier in aller Öffentlichkeit Geld zählen, überweise es mir, wenn Du ein deutsches Konto hast“. 
@@ -71,24 +71,24 @@ Sie wussten beide, dass mindestens einer von Beiden immer wach bleiben musste, z
 
 „Mama, wenn Du willst, kannst Du ein bisschen schlafen, ich wecke Dich dann, wenn unser Zug bereitgestellt wird“, Sascha sah sie an, fast ein wenig fürsorglich gegenüber seiner Mutter, mit der er sich in den letzten Jahren sowohl so viel gestritten hatte, aber mit der er zu einem gut eingespielten Team zusammen gewachsen war.
 
-Milena sah ihn dankbar an, er rutschte ein wenig zur Seite, so dass sie sich hinlegen konnte und er schob ihr noch seine Jacke unter den Kopf.
-Er selbst buchte sein neu erworbenes Telefon in das Bahnhofs-Wifi ein und daddelte ziellos durch Youtube, Instagram und Tiktok. Es war ungewohnt, polnische und deutsche Werbung angezeigt zu bekommen, aber der Algorithmus lernte schnell und spülte ihm deutsche Inhalte in seine Timeline, die er mit Untertiteln ansah, während seine Mutter ruhig atmend auf der Bank schlief.
+Milana sah ihn dankbar an, er rutschte ein wenig zur Seite, so dass sie sich hinlegen konnte und er schob ihr noch seine Jacke unter den Kopf.
+Er selbst buchte sein neu erworbenes Telefon in das Bahnhofs-WLAN ein und daddelte ziellos durch Youtube, Instagram und Tiktok. Es war ungewohnt, polnische und deutsche Werbung angezeigt zu bekommen, aber der Algorithmus lernte schnell und spülte ihm deutsche Inhalte in seine Timeline, die er mit Untertiteln ansah, während seine Mutter ruhig atmend auf der Bank schlief.
 „Could we see your passports?“, er sah hoch und in die Gesichter zweier polnischen Polizisten.
 
-„A moment, please“, er kramte in seiner Jackentasche und förderte seinen Deutschen Pass hervor, „My Mums is in her Jacket…“, er deutete auf die Jacke unter Milenas Kopf, „you want me to…“, die Polizisten nickten und er zog sanft an Milenas Jacke unter ihrem Kopf, in der Hoffnung, sie nicht zu wecken.
-„Hurry up!“, einer der Polizisten wurde ungeduldig und griff erst einmal nach seinem Reisepass, während Milena aufwachte und schlaftrunken in die Runde sah.
+„A moment, please“, er kramte in seiner Jackentasche und förderte seinen Deutschen Pass hervor, „My Mums is in her Jacket…“, er deutete auf die Jacke unter Milanas Kopf, „you want me to…“, die Polizisten nickten und er zog sanft an Milanas Jacke unter ihrem Kopf, in der Hoffnung, sie nicht zu wecken.
+„Hurry up!“, einer der Polizisten wurde ungeduldig und griff erst einmal nach seinem Reisepass, während Milana aufwachte und schlaftrunken in die Runde sah.
 „WHAT?“, sie sah verwirrt aus, als ob sie nicht wusste, wo sie war.
 
 „Your Passport, Madam!“, Sascha hielt erst einmal seinen Pass fest, bevor er den seiner Mutter aus der Innentasche der Jacke fischte und beide Büchlein dem Polizisten in die Hand drückte.  
 „Niemiecki?“, der Polizist zeigte auf den Bundesadler auf dem Pass, als ob er dessen Existenz nicht glauben wollte.  
-„We are Germans“, Milena war wach genug, dem Polizisten zu versichern, dass die Pässe echt waren.  
+„We are Germans“, Milana war wach genug, dem Polizisten zu versichern, dass die Pässe echt waren.  
 „And we’re going to Berlin“, Sascha zog das Zugticket hervor und zeigte es.
 Beide Polizisten inspizierten sorgfältig die Pässe, die Ausreisestempel des Ukrainischen Grenzers von vorhin.  
-Milena hatte sich aufgesetzt und sah die beiden Beamten mit festem Blick an, nicht willens, sich verunsichern zu lassen.  
-„Your address in Germany? Residency?“, sie sahen Milena an.
-„Goethestraße 70 in Berlin“, Milenas Deutsch war nahezu akzentfrei und das überzeugte die polnischen Beamten.
+Milana hatte sich aufgesetzt und sah die beiden Beamten mit festem Blick an, nicht willens, sich verunsichern zu lassen.  
+„Your address in Germany? Residency?“, sie sahen Milana an.
+„Goethestraße 70 in Berlin“, Milanas Deutsch war nahezu akzentfrei und das überzeugte die polnischen Beamten.
 „Safe travel, be careful of pickpockets“, sie drückten Sascha die beiden roten Bücher in die Hand und gingen zu den nächsten Wartenden ein paar Meter weiter.
-„Puuuhh!“, Sascha atmete tief durch und Milena umarmte ihn.  
+„Puuuhh!“, Sascha atmete tief durch und Milana umarmte ihn.  
 „Keine Sorge, Du bist Deutscher und darfst hier sein“, sie sah ihm in die Augen, „Du bist nämlich auch EU-Bürger“, sie lächelte, „gewöhne Dich am besten daran“
 
 Sascha sah sie immer noch unsicher an.
@@ -97,7 +97,7 @@ Er bewunderte seine Mutter dafür, wie sie rational an ihre Ausreise herangingen
 
 Sie sahen auf die Abfahrtstafel und sie sahen durch die Eingangstür nach draußen auf den Bahnhofsvorplatz, wo der Sommermorgen graute.
 
-„Wie lange noch, bis unser Zug geht?“, Milena sah ihren Sohn an, der das Ticket ansah.  
+„Wie lange noch, bis unser Zug geht?“, Milana sah ihren Sohn an, der das Ticket ansah.  
 „Halbe Stunde noch“. 
 „Dann lass uns doch schonmal zum Bahnsteig gehen, da haben wir frische Luft“, sie stand auf und sah ihren Sohn an, der ebenfalls schon stand.  
 Sie bewunderte ihn, wie sie ihn auch schon zu Hause bewundert hatte, wie er trotz der Kriegs-Situation sein normales Leben geführt hatte, wie er sich mit anderen Gleichaltrigen im Dorf getroffen hatte. Er war sportlich, betrieb diverse Kampfsportarten, war bei den Mädchen als Kumpel und in ein paar Fällen auch als Freund beliebt. Fast fühlte sie sich in seiner Gegenwart sicher, war überzeugt, er würde sie vor tätlichen Angriffen beschützen können.  
@@ -113,7 +113,7 @@ Inzwischen hatte der Kumpane ohne die Tasche die Tür zum Bahnhofsvorplatz errei
 Er registrierte, dass er es vermutlich nur mit einer Person aufnehmen musste.
 „STOP HIM!!!“, Sascha sah, wie eine Person durch die Tür hereinkam, aber der Mann schien sich nicht für sein Problem zu interessieren.  
 „Sascha! Bleib hier!“, er hörte seine Mutter panisch schreien, „das ist es doch nicht wert!“, aber er war jetzt fast bei dem Verbrecher, der sich kurz zu ihm umgedreht und dadurch den Vorsprung verringert hatte.  
-Sascha sprang mit seinen Turnschuhen in die Kniekelen des Mannes, der unter Stöhnen nach vorne auf den Hallenboden fiel und Sascha liess mit seinem ganzen Gewicht auf dem Körper unter ihm fallen. Die Laptop-Tasche hatte der Mann neben sich auf den Boden fallen lassen.  
+Sascha sprang mit seinen Turnschuhen in die Kniekehlen des Mannes, der unter Stöhnen nach vorne auf den Hallenboden fiel, und Sascha ließ mit seinem ganzen Gewicht auf dem Körper unter ihm fallen. Die Laptoptasche hatte der Mann neben sich auf den Boden fallen lassen.  
 „Dapamažycie! Rabavańnie!“, er erkannte die Sprache nicht, es war nicht Russisch oder Ukrainisch, aber nahe dran.  
 „Nikogda bol’she tak ne delay, inache ya tebya ub’yu!“, er hatte sich zu dem Kopf des Diebes heruntergebeugt, sein Ellenbogen im Nacken des Mannes unter ihm. Er würde sicher die Todesdrohung auf Russisch verstehen, dass er das nie wieder tun sollte.  
 Aus dem Augenwinkel sah er eine Bewegung, eine junge Frau ungefähr in seinem Alter hatte sich zu ihnen gestellt und die gestohlene Tasche in der Hand.
@@ -136,12 +136,47 @@ Sascha nickte.
 „Du bist Deutsch?“, Sascha versuchte sein brüchiges Deutsch.  
 „Du auch?“  
 „So irgendwie…“, er versuchte, die richtigen Worte zu finden, „Ich bin Deutscher und Ukrainer“, er atmete ein und aus, „Und ich heisse Sascha“.  
-„Oh…“, offensichtlich merkte sie auch gerade, dass sie ihre Namen noch nicht wussten, „ich heisse Lisa“. 
-„Freut mich, Dich kennen zu lernen, Lisa“, Sascha streckte seine Hand nach ihrer aus, etwas unbeholfen.  
+„Oh…“, offensichtlich merkte sie auch gerade, dass sie ihre Namen noch nicht wussten, „ich heisse Louisa“. 
+„Freut mich, Dich kennen zu lernen, Louisa“, Sascha streckte seine Hand nach ihrer aus, etwas unbeholfen.  
 „Mich auch…“, sie nahm seine Hand ihn ihre, „Das da drüben ist doch Deine Mutter?“, ihr blick streifte die Bank, auf er Milana immer noch saß.  
 „Ja, sollen wir rüber gehen?“, er machte Anstalten, dort hinzugehen.
-„Geh schon rüber, ich hole noch meine Tasche“, Lisa lächelte, während sie ein paar Schritte in Richtung der nächsten Bank ging, auf der eine Reisetasche lag.
+„Geh schon rüber, ich hole noch meine Tasche“, Louisa lächelte, während sie ein paar Schritte in Richtung der nächsten Bank ging, auf der eine Reisetasche lag.
 
 „Sascha!“, Milana sah ihn böse an, „Du kannst Doch nicht einfach!“, sie sah ihm in die Augen, aus ihrem Blick sprach die Angst, die sie um ihren Sohn gehabt haben musste.  
 „Wenn Dir was passiert wäre!“, sie hatte Tränen in den Augen und sie umarmte Sascha und drückte ihn fest an sich.  
-„Aber… Mama…“, Sascha drückte seine Mutter ein wenig von sich weg und sah sie an.
+„Aber… Mama…“, Sascha drückte seine Mutter ein wenig von sich weg und sah sie an.  
+"Es ist doch gar nichts passiert!" er hob die Laptop-Tasche in die Luft, "... und die ist wieder da"
+
+"Hallo Sascha!", Louisa hatte sich zu ihnen gesellt, "... ich bin Louisa", sie reichte Milana die Hand.
+"äh... Milana", Milana sah zwischen ihrem Sohn und Louisa hin und her.
+"Das war sehr mutig und gut überlegt, was Dein Sohn...", ihr Blick schwenkte zu Sascha, "gemacht hat. Die Rettung der Tasche hat Euch sicherlich einigen Ärger erspart".  
+"Das auf jeden Fall", Milana sah Louisa an, "Hallo Louisa... bist Du auch auf der Durchreise?"   
+"Ich fahre Leute und Dinge hier her zur Grenze, oder manchmal auch zurück".   
+Sie atmete einmal ein und wieder aus.   
+"Gestern Abend habe ich jemanden am Nachtzug nach Kyjiw abgesetzt und habe mich noch ein bisschen ausgeruht, bevor ich mich wieder ins Auto setze".
+Sie sah die Beiden an.   
+„Und ihr? Ihr seht nach Durchreise aus.“  
+"Ja, wir wollen nach Berlin, mit dem Eurocity", Sascha zeigte auf die Anzeigetafel, wo ihr Zug angeschlagen stand.  
+"Ah, gut!", Louisa lächelte, "Dann komme ich noch mit raus zum Bahnsteig...", sie sah zwischen Mutter und Sohn hin- und her, "... wenn es Euch nichts ausmacht".  
+"Neinnein!"   
+"Alles gut!", schüttelten Mutter und Sohn die Köpfe und so schulterten sie ihr Gepäck. Louisa nahm ihre eigene Reisetasche und sie verließen die Bahnhofshalle in Richtung Bahnsteige, wo sie schließlich vor dem wartenden Zug standen.   
+"Dann packt mal Eure Sachen ein...", Louisa stellte ihre Tasche ab und reichte Sascha Milanas Rucksack durch die Zugtüre nach oben, "... und kommt dann nochmal kurz her", sie lächelte Sascha an.   
+"Sie mag Dich", flüsterte Milana ihrem Sohn zu, während sie ihr Gepäck an ihrem reservierten Tisch verstauten.  
+"Ach Mama!", Sascha verdrehte gespielt genervt die Augen, aber insgeheim wünschte er sich, Milana hätte recht.   
+"Komm, sagen wir ihr noch lebewohl", Milana ging voraus, blieb dann aber in der Tür stehen, während Sascha noch kurz zurück auf den Bahnsteig sprang.   
+"Komm her!", Louisa zog ihn zu sich und umarmte ihn.   
+"Wenn Du in Berlin bist, schreib mir mal", Sascha spürte wie ihre Hand etwas in seine Hosentasche steckte und er zitterte ein wenig vor Freude.   
+"Ja, das mach ich... auf jeden Fall...", er sah sie kurz an und sie lächelte, "... es würde mich freuen...", sie sah ihn noch einmal an, "... wenn Du Leute wie mich treffen willst, dann schau mal im xBerg Makerspace vorbei".  
+Eine Durchsage kündigte die Abfahrt des Zuges an.  
+"Du musst...", Sascha nickte und drehte sich um, um den Zug zu besteigen, die Türen schlossen sich und er sah durch das verdreckte Zugfenster noch zu, wie sie winkend am Bahnsteig stand und ihm beim Wegfahren zusah.
+
+Etwas durcheinander ging er die paar Schritte zu seiner Mutter.   
+"Siehst Du, sie mag Dich", sie sah ihn an, "... auf dem Zettel in Deiner Hosentasche steht doch sicher ihre Telefonnummer?"   
+Sascha zog den Zettel heraus und er freute sich, dass da wirklich eine Telefonnummer stand. Er machte ein Foto davon und steckte den Zettel in die Laptoptasche, bevor er sich hinsetzte.   
+
+Er speicherte die Telefonnummer ein und schickte eine Textnachricht.
+"Hallo, das ist Sascha vom Bahnhof."   
+Quasi Sekundenbruchteile später kam bereits die Antwort.   
+"Schön, dass Du Dich gleich meldest! Komm gut nach Berlin!"   
+Sein Herz machte einen kleinen Sprung vor Freude, wenigstens hier hatte Louisa keine falsche Fährte gelegt.  
+
